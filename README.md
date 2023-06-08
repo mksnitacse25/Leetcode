@@ -1,2 +1,2 @@
 # Leetcode
-Collection of Leetcode problems to ace the coding interview!
+Collection of Leetcode problems to ace the coding interviews!
