@@ -8,7 +8,7 @@ class Solution {
     vector<long long> lcmAndGcd(long long A , long long B) {
         long long lcm,gcd,tmpA=A,tmpB=B;
         vector<long long> lg;
-        while(A>0 && B>0)
+        while(A>0 && B>0)       // O(log(min(A,B)))
         {
             if(A>B) 
               A=A%B;
